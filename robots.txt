@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://1145dragonp.github.io/sitemap.xml
